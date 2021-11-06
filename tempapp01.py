@@ -1,10 +1,8 @@
 import streamlit as st
 import pandas as pd
-import base64
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
-import plotly.express as px
 
 st.write('this is testing')
 use_cols = ['Email ', 'Department ',
